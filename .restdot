@@ -1,0 +1,5 @@
+{
+    "inputDir": "./docs",
+    "outputDir": "./build/docs",
+    "templateFile": "./test.tpl"
+}

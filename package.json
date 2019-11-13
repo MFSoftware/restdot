@@ -1,0 +1,25 @@
+{
+  "name": "restdot",
+  "version": "1.0.0",
+  "description": "Documentation generator from markdown, for REST API",
+  "main": "index.js",
+  "bin": {
+    "restdot": "bin/index.js"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "api",
+    "generator"
+  ],
+  "author": "MagicFun1241",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "marked": "^0.7.0"
+  },
+  "devDependencies": {
+    "mocha": "^6.2.2"
+  }
+}
