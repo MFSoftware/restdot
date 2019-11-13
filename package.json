@@ -1,7 +1,7 @@
 {
   "name": "restdot",
-  "version": "1.0.0",
-  "description": "Documentation generator from markdown, for REST API",
+  "version": "1.0.1",
+  "description": "Rest API documentation generator from markdown files",
   "main": "index.js",
   "bin": {
     "restdot": "bin/index.js"
