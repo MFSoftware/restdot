@@ -1,2 +1,2 @@
-# restdot
-Documentation generator from markdown, for REST API
+# RestDot
+Rest API documentation generator from markdown files
